@@ -18,7 +18,7 @@
 
 ## ▶️How To Run Locally:
 1. Clone the repository:  
-    git clone https://github.com/D3vilGhost/imPowered
+    git clone https://github.com/ankit2112s/impowered-website
 
 2. Install dependencies:
    - npm install
